@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T18:03:31.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.7" etag="eFsBwdLsDh2RMm3vqcex" type="github"><diagram id="FKgOVd6op9hLZ679U8hH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T18:29:15.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LojF6CyiWsG9ThUGtxoF" version="13.9.7" type="github">
+  <diagram id="FKgOVd6op9hLZ679U8hH" name="Page-1">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-2" value="Intial population" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="280" y="115" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-3" value="Calculate fitness value" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="270" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-4" value="Update particle using pbest, gbest and velocity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="279" y="270" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-5" value="newFitness&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;lt; oldFitness" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-6" value="Update pbest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-7" value="Do not update pbest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="434" y="510" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-8" value="pbest &amp;lt; gbest&amp;nbsp;&amp;nbsp;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-9" value="Update gbest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-10" value="Do not update gbest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-11" value="Max iteration end" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-12" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
