@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T19:01:42.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="eSPUB_dcil-2Maed2uRi" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T19:03:11.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="pLSlcXYt2c62DxIf2OYQ" version="13.9.7" type="github">
   <diagram id="FKgOVd6op9hLZ679U8hH" name="Page-1">
-    <mxGraphModel dx="3472" dy="2741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,13 +55,13 @@
         <mxCell id="yrOu8FVgPzleTjh1yl-w-10" value="Do not update gbest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="309" y="724" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yrOu8FVgPzleTjh1yl-w-11" value="Max iteration end" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-11" value="Max iterations end" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="159" y="843" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrOu8FVgPzleTjh1yl-w-12" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="190" y="994" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yrOu8FVgPzleTjh1yl-w-13" value="Return best solution" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-13" value="Return best solutions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="184" y="1073" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrOu8FVgPzleTjh1yl-w-15" value="" style="endArrow=classic;html=1;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="yrOu8FVgPzleTjh1yl-w-63">
@@ -217,7 +217,7 @@
         <mxCell id="yrOu8FVgPzleTjh1yl-w-59" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="399" y="374" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yrOu8FVgPzleTjh1yl-w-60" value="Udpate velocties values&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;rotation=-90;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
+        <mxCell id="yrOu8FVgPzleTjh1yl-w-60" value="Udpate velocty values&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;rotation=-90;" vertex="1" parent="yrOu8FVgPzleTjh1yl-w-63">
           <mxGeometry x="420" y="304" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
