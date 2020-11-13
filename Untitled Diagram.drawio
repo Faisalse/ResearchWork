@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T14:42:23.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1Y0CKMwbDmIXKX3TG2m2" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T14:48:36.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6xyEQeFIAxQUF5-1jUql" version="13.9.7" type="github">
   <diagram id="FVAf2k9BSULwsjGLzW3o" name="Page-1">
     <mxGraphModel dx="3390" dy="3124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,22 +194,22 @@
           <mxGeometry x="271.6332378223496" y="763.8345105953582" width="217.7650429799427" height="69.02119071644803" as="geometry" />
         </mxCell>
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-91" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
-          <mxGeometry y="888.0726538849647" width="350.7163323782235" height="83.9757820383451" as="geometry" />
+          <mxGeometry y="888.0726538849647" width="370" height="83.98" as="geometry" />
         </mxCell>
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-91">
-          <mxGeometry x="6.876790830945558" width="343.8395415472779" height="83.9757820383451" as="geometry" />
+          <mxGeometry x="-10" width="380" height="83.98" as="geometry" />
         </mxCell>
-        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-90" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Crossover&lt;/font&gt;: Parents are selected to exchanged genes and produce children&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-91">
-          <mxGeometry y="20.706357214934407" width="350.7163323782235" height="46.01412714429868" as="geometry" />
+        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-90" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Crossover&lt;/font&gt;: Two parents are selected to exchange genes and produce children&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-91">
+          <mxGeometry width="350.72" height="66.72" as="geometry" />
         </mxCell>
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-92" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
-          <mxGeometry x="422.9226361031519" y="886.9223007063572" width="350.7163323782235" height="83.9757820383451" as="geometry" />
+          <mxGeometry x="410" y="886.92" width="380" height="83.98" as="geometry" />
         </mxCell>
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-93" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-92">
-          <mxGeometry x="6.876790830945558" width="343.8395415472779" height="83.9757820383451" as="geometry" />
+          <mxGeometry x="7.450980392156862" width="372.5490196078431" height="83.98" as="geometry" />
         </mxCell>
-        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-94" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mutation: Randomly selects two or three bits of childern and flipped&amp;nbsp;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-92">
-          <mxGeometry y="20.706357214934407" width="350.7163323782235" height="46.01412714429868" as="geometry" />
+        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-94" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Mutation: Select on individual and mutate its genes&amp;nbsp;&amp;nbsp;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-92">
+          <mxGeometry y="20.70739726027397" width="380" height="46.016438356164386" as="geometry" />
         </mxCell>
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
           <mxGeometry x="342.69340974212037" y="1012.3107971745711" width="89.48001896587358" height="89.48001896587358" as="geometry" />
@@ -295,10 +295,10 @@
         <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-116" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
           <mxGeometry x="441.26" y="634.1300000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-118" value="&lt;font color=&quot;#000000&quot;&gt;No&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
+        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-118" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;fontSize=20;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
           <mxGeometry x="386" y="713.2200000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-119" value="&lt;font color=&quot;#000000&quot;&gt;Replace old population with new population&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;fontSize=20;rotation=90;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
+        <mxCell id="48Ru-MBgPkDFJ9XC2iOZ-119" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;Replace old population with new population&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;fontSize=20;rotation=90;" vertex="1" parent="48Ru-MBgPkDFJ9XC2iOZ-114">
           <mxGeometry x="550" y="654.13" width="466" height="20" as="geometry" />
         </mxCell>
       </root>
